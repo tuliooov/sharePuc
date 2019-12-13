@@ -1,0 +1,26 @@
+Matrícula: 679543/ 686547
+Larissa Kaweski Siqueira
+Marco Tulio de Oliveira
+
+
+
+O trabalho teve referência a nossa extensão realizada no trabalho de ICC(Introdução a Ciência da Computação)
+que teve como público alvo os alunos do Oitavo ano de uma escola pública.
+O mini curso teve uma duração de 2 horas e utilizamos o scratch para ensinar lógica
+de programação. Foi passado alguns métodos básicos da programação, como:
+while, for, if e else, dentre outros. 
+
+
+
+Modificações a serem feitas: Criação de variáveis, alteração de velocidade da bola, mudança de movimento com personagem,
+mudança de cenário, personagem e objeto. 
+
+https://scratch.mit.edu/projects/346161421/
+
+
+
+
+Modificações a serem feitas: Criação de variável de acerto e erro, modificação na valocidade do alvo
+e das flechas.
+
+https://scratch.mit.edu/projects/20248679/
